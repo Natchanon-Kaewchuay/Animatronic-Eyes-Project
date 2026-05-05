@@ -3,7 +3,7 @@ This repository contains the final deliverables for the Animatronic Eyes Project
 
 The repository includes:
 
-* Fusion360 CAD file (.f3z), including all designed parts and commercial components.
+* Fusion360 CAD file (.f3z), including all designed parts and commercial components
 * Multiple realistic rendered images of final design
 * A full assembly instruction animation
 * Static structural simulation results
